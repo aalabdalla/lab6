@@ -1,0 +1,14 @@
+{
+	"name": "package",
+	"version": "1.1.0",
+	"description": "",
+	"dependencies": {
+		"body-parser": "^1.18.2",
+		"express": "^4.16.2",
+		"jsonfile": "^4.0.0",
+		"pug": "^2.0.0-rc.4",
+		"qrcode": "^1.0.0",
+		"speakeasy": "^2.0.0"
+	},
+	"license": "MIT"
+}
